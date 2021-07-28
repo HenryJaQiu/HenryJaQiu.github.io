@@ -1,0 +1,12 @@
+---
+title: "GTA - Machine Learning"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2020-autumn-teaching-1
+venue: "University of Nottingham Ningbo China, School of Computer Science"
+date: 2020
+location: "Ningbo, China"
+---
+
+Be undergraduate teaching assistant (GTA) in Machine Learning.
+

@@ -1,0 +1,13 @@
+---
+title: "GTA - System & Architectures"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2021-spring-teaching-2
+venue: "University of Nottingham Ningbo China, School of Computer Science"
+date: 2021
+location: "Ningbo, China"
+
+---
+
+Be undergraduate teaching assistant (GTA) in System & Architectures.
+
