@@ -8,7 +8,7 @@ On the Memory Mechanism of Tensor-Power Recurrent Models, AISTATS 2021.
 http://proceedings.mlr.press/v130/qiu21a.html
 
 ### Blogs
-[my link](file://README.md)
+[my link](README.md)
 
 ### Personal Interests
 
