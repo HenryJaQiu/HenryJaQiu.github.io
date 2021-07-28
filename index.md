@@ -11,3 +11,7 @@ http://proceedings.mlr.press/v130/qiu21a.html
 ### Personal Interests
 
 Computer games, movies, and sports!
+
+### How to Contact Me
+
+Hejia.QIU@outlook.com | https://www.linkedin.com/in/hejia-qiu-87a11111a/
