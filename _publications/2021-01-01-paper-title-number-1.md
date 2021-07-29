@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-01-01-paper-title-number-1
 excerpt: 'Focus on the long-term memory and stability of tensor recurrent model with developing a degree-differentiable model benefit from long-term effect in a stable manner, cooperate with RIKEN AIP Tensor Learning Team.'
 date: 2021-01-01
-venue: 'Journal 1'
+venue: 'International Conference on Artificial Intelligence and Statistics'
 paperurl: 'http://proceedings.mlr.press/v130/qiu21a.html'
 citation: 'Qiu, H., Li, C., Weng, Y., Sun, Z., He, X. and Zhao, Q., 2021, March. On the Memory Mechanism of Tensor-Power Recurrent Models. In International Conference on Artificial Intelligence and Statistics (pp. 3682-3690). PMLR.'
 ---
