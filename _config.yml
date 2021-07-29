@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &Mr.Anderson
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :  henryjaq
+  steam            :  "henryjaq"
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
