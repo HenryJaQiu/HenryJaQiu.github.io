@@ -85,3 +85,16 @@ Service and leadership
 ======
 * Experience in software product management
 * Active in programming and academic community
+
+# More Info
+
+Hejia.QIU@outlook.com
+
+https://www.linkedin.com/in/hejia-qiu-87a11111a/
+
+
+
+
+
+
+
