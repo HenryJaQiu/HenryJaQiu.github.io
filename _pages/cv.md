@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - What have I experienced?"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, University of Nottingham, 2019
+
 * Ph.D in Computer Science and Operations Research, University of Nottingham, 2023 (expected)
+* B.S. in Computer Science, University of Nottingham, 2019
 
 Work experience
 ======
