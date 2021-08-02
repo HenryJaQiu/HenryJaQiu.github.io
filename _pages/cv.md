@@ -23,35 +23,34 @@ Work experience
   * Duties included: Research, teaching
   * Experienced in: Machine learning, tensor network, image processing, healthcare
   * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Dr. Benedict Sheung Hung Poon
-
 * Summer 2019 - Now: Teaching Assistant
   * University of Nottingham, Computer Science School
   * Duties included: Undergraduate teaching assistant (GTA)
   * GTA in: Machine Learning, System & Architectures
   * Supervisor: Dr. Ying Weng, Dr. Zheng Lu, Dr. Heng Yu
-
+* Summer 2018 - Summer 2019: Research Intern
+  * University of Nottingham, Business School
+  * Duties included: Data analysis, webpage system development
+  * Experienced in: Linux server, JS & PHP, SPSS, Excel
+  * Supervisor: Dr. Xi Chen
 * Summer 2018: Research Intern
   * University of Nottingham, Computer Science School
   * Duties included: Academic research
   * Experienced in: Deep learning, video processing, image processing
   * Supervisor: Dr. Ying Weng
-
 * Summer 2018 - Summer 2019: Research Intern
   * NVIDIA Joint-Lab on Mixed Reality, NVIDIA Technology Centre
   * Duties included: 3D model constructing, VR game development, research assistant
   * Experienced in: Unity, VR toolkit, Blender, Maya
   * Supervisor: Prof. Eugene Ch'ng
-
 * Spring 2018: Product Manager & Software Engineer
   * University of Nottingham - Group Project
   * Duties included: Project management, framework design, software development.
   * Experienced in: Kalman filter, VUE, Electron, Echarts
-
 * Summer 2017: Software Engineer Intern
   * LEPU Info-Tech Co, ltd
   * Duties included: Software development, data visualization
   * Experienced in: VUE, Node, Electron, Echarts, NW.JS
-
 * Summer 2016: Market & IT Intern
   * Globel IELTS Youth Education
   * Duties included: Media operation, promotion design, video editing, game development
