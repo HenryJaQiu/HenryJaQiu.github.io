@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Source - Some valuable things."
+title: "Source - Some Valuable Things."
 permalink: /source/
 author_profile: true
 redirect_from:
