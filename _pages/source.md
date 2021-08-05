@@ -25,12 +25,10 @@ Online Books
 * [Yet Another Scheme Tutorial - CN](http://deathking.github.io/yast-cn/contents/preface.html)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learning](http://www.deeplearningbook.org/)
-Articles
-======
-* [Art of Questioning](http://www.catb.org/~esr/faqs/smart-questions.html])
+# Articles
 
-Tools
-======
+- [Art of Questioning](http://www.catb.org/~esr/faqs/smart-questions.html)
+
 
 
 
