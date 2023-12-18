@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science and Operations Research, University of Nottingham, 2023 (expected)
+* Ph.D in Computer Science and Operations Research, University of Nottingham, 2024 (expected)
 * B.S. in Computer Science, University of Nottingham, 2019
 
 Work experience
@@ -22,8 +22,12 @@ Work experience
   * University of Nottingham, Computer Science School
   * Duties included: Research, teaching
   * Experienced in: Machine learning, tensor network, image processing, healthcare
-  * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Dr. Benedict Sheung Hung Poon
-* Summer 2019 - Now: Teaching Assistant
+  * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Dr. Zhuo Chen
+* Summer 2022 - Winter 2022: Algorithm Engineer
+  * RSS3 - Web3 Start Up
+  * Duties included: Software development, algorithm research
+  * Experienced in: Recommendation system, search engine, database, blockchain
+* Summer 2019 - Summer 2022: Teaching Assistant
   * University of Nottingham, Computer Science School
   * Duties included: Undergraduate teaching assistant (GTA)
   * GTA in: Machine Learning, System & Architectures
