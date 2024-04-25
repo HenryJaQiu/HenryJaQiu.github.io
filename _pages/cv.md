@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 
-* Ph.D in Computer Science and Operations Research, University of Nottingham, 2024 (expected)
+* Ph.D in Computer Science and Operations Research, University of Nottingham, 2024
 * B.S. in Computer Science, University of Nottingham, 2019
 
 Work experience
 ======
 
-* Summer 2019 - Now: Ph.D Candidate
+* Summer 2019 - July 2024: Ph.D Candidate
   * University of Nottingham, Computer Science School
   * Duties included: Research, teaching
   * Experienced in: Machine learning, tensor network, image processing, healthcare
-  * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Dr. Zhuo Chen
+  * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Prof. Zhuo Chen
 * Summer 2022 - Winter 2022: Algorithm Engineer
   * RSS3 - Web3 Start Up
   * Duties included: Software development, algorithm research
