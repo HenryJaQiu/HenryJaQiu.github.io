@@ -16,17 +16,22 @@ Currently, I am an Assistant Professor at the School of AI and Advanced Computin
 
 Please feel free to contact me for any research collaboration opportunities by Hejia.Qiu@xjtlu.edu.cn.
 
-* Research Interests:  
-machine learning, tensor model, artificial intelligence, computation decomposition, stability optimization, block chain
+My Research Interests:
+* machine learning
+* tensor model
+* artificial intelligence
+* computation decomposition
+* stability optimization
+* block-chain
 
-* Experience:  
-Assistant Professor, Xi'an Jiaotong-Liverpool University, 2024-Present
-Senior AI Developer, RSS3, 2022
-Research Assistant, NVIDIA-Joint MR Lab, University of Nottingham, 2018-2019
+Experience:
+* Assistant Professor, Xi'an Jiaotong-Liverpool University, 2024-Present
+* Senior AI Developer, RSS3, 2022
+* Research Assistant, NVIDIA-Joint MR Lab, University of Nottingham, 2018-2019
 
-* Education/Academic Qualification:  
-PhD in Computer Science, University of Nottingham, 2024
-BSc(Hons) in Computer Science, University of Nottingham, 2019
+Education/Academic Qualification:  
+* PhD in Computer Science, University of Nottingham, 2024
+* BSc(Hons) in Computer Science, University of Nottingham, 2019
 
 
 Feel free to contact me by any link in [my website](https://henryjaqiu.github.io/) if interested, including Email, Linkedin, ResearchGate, Steam...
