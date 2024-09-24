@@ -17,12 +17,14 @@ Education
 
 Work experience
 ======
-
+* Summer 2024 - Present: Assistant Professor
+  * Xi'an Jiaotong-Liverpool University, School of Artificial Intelligence and Advanced Computing (AIAC)
+  * Duties included: Research, teaching, faculty service
 * Summer 2019 - July 2024: Ph.D Candidate
   * University of Nottingham, Computer Science School
   * Duties included: Research, teaching
   * Experienced in: Machine learning, tensor network, image processing, healthcare
-  * Supervisor: Dr. Ying Weng, Dr. Jonathan Lund, Prof. Zhuo Chen
+  * Supervisor: Dr. Ying Weng, Prof. Zhuo Chen
 * Summer 2022 - Winter 2022: Algorithm Engineer
   * RSS3 - Web3 Start Up
   * Duties included: Software development, algorithm research
@@ -64,7 +66,7 @@ Skills
 ======
 * Programming
 * Research
-* Academic Paperwork
+* Teaching
 * Design
 
 Publications
