@@ -2,7 +2,7 @@
 title: "Benchmarking Dimension-Inverted Transformers for High-Precision Forward Kinematics of Industrial Manipulators"
 collection: publications
 permalink: /publication/2026-6-15-paper-title-number-6
-excerpt: ''
+excerpt: '---'
 date: 2026-6-15
 venue: 'The 9th IEEE International Conference on Pattern Recognition and Artificial Intelligence (PRAI 2026)'
 paperurl: 'https://scholar.xjtlu.edu.cn/en/publications/benchmarking-dimension-inverted-transformers-for-high-precision-f/'
